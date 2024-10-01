@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm parthiv mangukiya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working in as intern **VB INFOTech**
+- 🔭 I’m currently working in as intern **Synoris Information Systems Private Limited**
 
-- 📫 How to reach me **parthiv6784@gmail.com**
+- 📫 How to reach me **parthivmangukiya678@gmail.com**
 
 - 📄 Know about my experiences [https://green-renee-73.tiiny.site/](https://green-renee-73.tiiny.site/)
 
